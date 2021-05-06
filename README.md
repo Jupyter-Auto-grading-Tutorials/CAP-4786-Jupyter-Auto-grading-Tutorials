@@ -56,6 +56,7 @@ Each of the tutorial sets will include the a teaching worksheet, exercise set, a
 We impletmented NbGrader with our Quiz 1 successfully.
 
 The first thing we need to do to acces these tutorials is to set up the nbgrader
+
 Step 1: Install nbgrader (preferably ina virtual environment)
 
 Step 2: Create your course
