@@ -52,7 +52,7 @@ This tutorial will consist of the following subjects:
      - Decision Trees and measuring accuracy
           - Visualize the tree
 
-Each Tutorial Set will include a **Lesson Worksheet**, a **Practice Exercise set**, and a **Quiz**
+Each Tutorial Set will include a **Lesson Worksheet**, **Practice Exercises**, and a **Quiz**
 
 ## Steps for Running Tutorials with nbgrader
 The first thing we need to do to acces these tutorials is to set up the nbgrader
