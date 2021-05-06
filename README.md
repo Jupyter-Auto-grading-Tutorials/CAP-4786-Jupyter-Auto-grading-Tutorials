@@ -7,7 +7,7 @@ To teach individuals a basic understanding of python and how to utilize it. We w
 
 
 ## The following is a list of the different tutorial sets we cover
-Each Tutorial Set includes a **Lesson Worksheet**, **Practice Exercises**, and a **Quiz**
+Each tutorial set includes a **Lesson Worksheet**, **Practice Exercises**, and a **Quiz**
 - **Tutorial 1: Intro to Pandas** <br /> 
 This tutorial will consist of the following subjects:
      - Create a data frame from scratch
@@ -41,7 +41,7 @@ This tutorial will consist of the following subjects:
      - Groupby
      - Agg
      - Concat
-     - join and merge
+     - Join and Merge
 
 <img src="https://github.com/Jupyter-Auto-grading-Tutorials/CAP-4786-Jupyter-Auto-grading-Tutorials/blob/main/images/Quiz3.PNG" height="400">
 
