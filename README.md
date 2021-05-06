@@ -7,7 +7,7 @@ To teach individuals a basic understanding of python and how to utilize it. We w
 
 
 ## The following is a list of the different tutorial sets we will cover
-- Tutorial 1: Intro to Pandas <br /> 
+- **Tutorial 1: Intro to Pandas** <br /> 
 This tutorial will consist of the following subjects:
      - Create a data frame from scratch
      - Import a data frame from file
@@ -21,7 +21,7 @@ This tutorial will consist of the following subjects:
 
 <img src="https://github.com/Jupyter-Auto-grading-Tutorials/CAP-4786-Jupyter-Auto-grading-Tutorials/blob/main/images/Lesson1.PNG" height="400">
 
-- Tutorial 2: Data Visualization <br />
+- **Tutorial 2: Data Visualization** <br />
      - Basic Plotting with Matplotlib
           - Include titles, axes labels, and color-coding
           - Seaborn Plots
@@ -30,7 +30,7 @@ This tutorial will consist of the following subjects:
           - Bar graphs
           - Histograms
 
-- Tutorial 3: Data Transformation <br />
+- **Tutorial 3: Data Transformation** <br />
      - Subsetting/Slicing
           - Based on conditions (loc)
           - Based on row number (iloc)
@@ -44,7 +44,7 @@ This tutorial will consist of the following subjects:
 
 <img src="https://github.com/Jupyter-Auto-grading-Tutorials/CAP-4786-Jupyter-Auto-grading-Tutorials/blob/main/images/Quiz3.PNG" height="400">
 
-- Tutorial 4: Data Analytics <br />
+- **Tutorial 4: Data Analytics** <br />
      - Correlation
      - Linear Regression and measuring error
           - Display the model's formula
