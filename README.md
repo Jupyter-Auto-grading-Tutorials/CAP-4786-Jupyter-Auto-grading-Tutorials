@@ -58,3 +58,17 @@ The first thing we need to do to acces these tutorials is to set up the nbgrader
 7. Autograde assignments
 
 For questions about nbgrader and how to install it please refer to the following link: [nbgrader Resource Page](https://nbgrader.readthedocs.io/en/stable/).
+
+## Software versions 
+- Python 3
+- Jupyter Notebooks
+- Chrome 
+- Libraries
+     - Matplotlib
+     - Pandas
+     - Numpy
+
+### Project Engineers
+Kelly Rivera & Matthew Montada
+### Professor
+Dr. Sean Mondesire
