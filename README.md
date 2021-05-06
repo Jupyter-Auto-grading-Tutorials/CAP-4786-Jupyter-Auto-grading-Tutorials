@@ -61,14 +61,14 @@ The first thing we need to do to acces these tutorials is to set up the nbgrader
 2. Open Jupyter Notebooks
 3. Open the **Formgrader** Interface at the top of the Jupyter Notebooks
 
-<img src="https://github.com/Jupyter-Auto-grading-Tutorials/CAP-4786-Jupyter-Auto-grading-Tutorials/blob/main/images/nbgraderTerminal.PNG" height="300">
+<img src="https://github.com/Jupyter-Auto-grading-Tutorials/CAP-4786-Jupyter-Auto-grading-Tutorials/blob/main/images/Formgrader.PNG" height="250">
 
 5. Create your course
 6. Create/add students ids in database 
 7. Create assignments
      - nbgrader will add an assignment folder to your hardware, where you can add the assignments students must complete
 
-<img src="https://github.com/Jupyter-Auto-grading-Tutorials/CAP-4786-Jupyter-Auto-grading-Tutorials/blob/main/images/Formgrader.PNG" height="250">
+<img src="https://github.com/Jupyter-Auto-grading-Tutorials/CAP-4786-Jupyter-Auto-grading-Tutorials/blob/main/images/nbgraderTerminal.PNG" height="300">
 
 8. Autograde assignments
 
