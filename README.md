@@ -6,7 +6,8 @@ This project is a series of python jupyter notebook data analytics tutorials tha
 To teach individuals a basic understanding of python and how to utilize it. We wanted to build four tutorial series that each include a teaching lesson, practice exercises, and a quiz. We completed all four teaching lessons, quizzes, and their corresponding answer sheets, all run with no bugs. The practice exercise questions are complete but the corresponding answer sheets need to be worked on. This project was done so that anyone wishing to learn the basics of python can do so easily.
 
 
-## The following is a list of the different tutorial sets we will cover
+## The following is a list of the different tutorial sets we cover
+Each Tutorial Set includes a **Lesson Worksheet**, **Practice Exercises**, and a **Quiz**
 - **Tutorial 1: Intro to Pandas** <br /> 
 This tutorial will consist of the following subjects:
      - Create a data frame from scratch
@@ -52,7 +53,6 @@ This tutorial will consist of the following subjects:
      - Decision Trees and measuring accuracy
           - Visualize the tree
 
-Each Tutorial Set will include a **Lesson Worksheet**, **Practice Exercises**, and a **Quiz**
 
 ## Steps for Running Tutorials with nbgrader
 The first thing we need to do to acces these tutorials is to set up the nbgrader
